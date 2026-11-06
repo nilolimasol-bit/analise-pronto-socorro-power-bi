@@ -1,4 +1,6 @@
 # Análise de atendimentos no pronto-socorro
+![Painel de análise de atendimentos no pronto-socorro](Imagens/Dashboard_Pronto_Socorro.png)
+
 
 Meu primeiro projeto em Power BI, desenvolvido para praticar preparação de dados, modelagem e criação de indicadores.
 
@@ -146,8 +148,9 @@ As três consultas foram direcionadas para a pasta Dados do projeto. O caminho d
 | Dashboard_Pronto_Socorro.pbix | Relatório principal |
 | Dados/Dados-Hospital-Expandido (2).xlsx | Base fictícia usada pelas três consultas |
 | Layout/layout_pronto_socorro (2).svg | Fundo do painel |
-| Documentacao/README.md | Documentação do projeto |
-| Documentacao/Dashboard_Pronto_Socorro.pdf | Primeira exportação, com alinhamento conferido |
+| README.md | Documentação do projeto |
+| Documentação/Painel_Pronto_Socorro.pdf | Primeira exportação, com alinhamento conferido |
+| Imagens/Dashboard_Pronto_Socorro.png | Imagem de apresentação do painel |
 | Testes/ | Cópias e exportações usadas no diagnóstico do PDF |
 
 A pasta Testes guarda o histórico das tentativas e não faz parte da entrega do portfólio.

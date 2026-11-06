@@ -149,7 +149,7 @@ As três consultas foram direcionadas para a pasta Dados do projeto. O caminho d
 | Dados/Dados-Hospital-Expandido (2).xlsx | Base fictícia usada pelas três consultas |
 | Layout/layout_pronto_socorro (2).svg | Fundo do painel |
 | README.md | Documentação do projeto |
-| Documentação/Painel_Pronto_Socorro.pdf | Primeira exportação, com alinhamento conferido |
+| Documentacao/Dashboard_Pronto_Socorro.pdf | Primeira exportação, com alinhamento conferido |
 | Imagens/Dashboard_Pronto_Socorro.png | Imagem de apresentação do painel |
 | Testes/ | Cópias e exportações usadas no diagnóstico do PDF |
 
